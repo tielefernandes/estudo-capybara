@@ -1,4 +1,4 @@
-# <h3>estudo_capybara</h3>
+# <h3>estudos sobre Capybara, framework para automação de testes</h3>
 <h6>Realizado curso da plataforma QA Ninja, de Framework Capybara.</h6>
 
 
