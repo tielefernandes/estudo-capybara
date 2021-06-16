@@ -1,0 +1,1 @@
+Arquivo de teste para simulação de upload com capybara.
