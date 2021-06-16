@@ -1,6 +1,6 @@
 # <h3>estudos sobre Capybara, framework para automação de testes</h3>
 <h6>Realizado curso da plataforma QA Ninja, de Framework Capybara.</h6>
-
+Passos para configuração do ambiente:  <a href="https://tielefernandes.medium.com/configurando-capybara-para-automa%C3%A7%C3%A3o-de-testes-7dbe074f84cd">aqui</a></p>
 
 <ul><h5>Um pouco do que foi visto durante o curso:</h5>
 	<b><li>Ferramentas</li></b>
@@ -20,3 +20,4 @@
 <h6>Para acessar a plataforma do curso, basta clicar no link: <a href="https://qaninja.academy/">QA Ninja Academy</a></p></h6>
 
 ![certiciado_curso_qaninja](https://user-images.githubusercontent.com/30751827/122297465-ef1bdf00-ced1-11eb-9cb9-be55ac19c9cc.png)
+
